@@ -1,15 +1,14 @@
 {
     "changes": [
         {
+            "title": "New features deloyed",
+            "timestamp": "2021-10-28T17:55:43+0000",
+            "body": "You'll enjoy: improved profile settings, improved usability, (e.g. enter a public room with a double click), edit attachment names, improved responsiveness, easier onboarding."
+        },
+        {
             "title": "First entry",
             "timestamp": "2021-08-11T15:08:43+0000",
             "body": "Testing out a new changelog format"
-        },
-        {
-            "title": "Second entry",
-            "timestamp": "2021-10-28T15:08:43+0000",
-            "body": "Testing out a new changelog format"
         }
-
     ]
 }
