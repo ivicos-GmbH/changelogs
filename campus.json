@@ -4,6 +4,12 @@
             "title": "First entry",
             "timestamp": "2021-08-11T15:08:43+0000",
             "body": "Testing out a new changelog format"
+        },
+        {
+            "title": "Second entry",
+            "timestamp": "2021-10-28T15:08:43+0000",
+            "body": "Testing out a new changelog format"
         }
+
     ]
 }
