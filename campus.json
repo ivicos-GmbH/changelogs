@@ -1,12 +1,12 @@
 {
     "changes": [
          {
-            "title": "New jit.si version deloyed",
+            "title": "New jitsi version deployed",
             "timestamp": "2021-11-18T19:15:43+0000",
             "body": "You'll enjoy: improved video and audio performance, sticky backgrounds, new screensharing features, etc."
         },
         {
-            "title": "New features deloyed",
+            "title": "New features deployed",
             "timestamp": "2021-10-28T17:55:43+0000",
             "body": "You'll enjoy: improved profile settings, improved usability, (e.g. enter a public room with a double click), edit attachment names, improved responsiveness, easier onboarding."
         },
