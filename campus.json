@@ -1,5 +1,10 @@
 {
     "changes": [
+        {
+            "title": "New feature: Visitor entrance",
+            "timestamp": "2022-05-09T12:00:00+0000",
+            "body": "You'll enjoy: a new visitor management - including direct links and a customization of the visitor entrance."
+        },
          {
             "title": "New jitsi version deployed",
             "timestamp": "2021-11-18T19:15:43+0000",
