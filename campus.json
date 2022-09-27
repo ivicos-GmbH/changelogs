@@ -1,7 +1,7 @@
 {
     "changes": [
           {
-            "title": "Appologies: A domain name change led to an outage for 5 minutes",
+            "title": "Appologies: A domain name change led to a short outage for the first time.",
             "timestamp": "2022-09-27T12:20:00+0000",
             "body": "The internet is a complex system. We know it from other large systems - one wrong value can impact the whole network. We're sorry."
         },
