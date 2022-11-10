@@ -1,7 +1,12 @@
 {
     "changes": [
           {
-            "title": "Appologies: A domain name change led to a short outage for the first time.",
+            "title": "We updated several services to improve stability. However: Firefox and Safari updates still cause some trouble. We recommend Chrome, Edge or Brave.",
+            "timestamp": "2022-11-08T12:20:00+0000",
+            "body": "The internet is a complex system. We know it from other large systems - one wrong value can impact the whole network. We're sorry."
+        },
+          {
+            "title": "A domain name change led to a short outage for the first time.",
             "timestamp": "2022-09-27T12:20:00+0000",
             "body": "The internet is a complex system. We know it from other large systems - one wrong value can impact the whole network. We're sorry."
         },
