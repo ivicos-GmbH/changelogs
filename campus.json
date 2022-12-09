@@ -1,9 +1,14 @@
 {
     "changes": [
+         {
+            "title": "We updated ivCAMPUS.",
+            "timestamp": "2022-12-08T23:30:00+0000",
+            "body": "New authentification system (magic link). Multi-language support, Guest notification sound, Improved member invitation, Refresh button, lots of minor improvements."
+        },
           {
-            "title": "We updated several services to improve stability. However: Firefox and Safari updates still cause some trouble. We recommend Chrome, Edge or Brave.",
+            "title": "We updated several services to improve stability.",
             "timestamp": "2022-11-08T12:20:00+0000",
-            "body": "The internet is a complex system. We know it from other large systems - one wrong value can impact the whole network. We're sorry."
+            "body": "However: Firefox and Safari updates still cause some trouble. We recommend Chrome, Edge or Brave."
         },
           {
             "title": "A domain name change led to a short outage for the first time.",
