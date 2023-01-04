@@ -1,6 +1,11 @@
 {
     "changes": [
          {
+            "title": "Happy New Year.",
+            "timestamp": "2023-01-04T11:30:00+0000",
+            "body": "We are further working on improvements to provide a great user experience. Minor improvements deployed end of December 2022. Please let us know if you have comments, requests or ideas."
+        },
+        {
             "title": "We updated ivCAMPUS.",
             "timestamp": "2022-12-08T23:30:00+0000",
             "body": "New authentification system (magic link). Multi-language support, Guest notification sound, Improved member invitation, Refresh button, lots of minor improvements."
