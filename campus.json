@@ -1,5 +1,10 @@
 {
     "changes": [
+        {
+            "title": "Microsoft 365 outage.",
+            "timestamp": "2023-01-25T09:30:00+0000",
+            "body": "Serious Internet Trouble - please stay tuned."
+        },
          {
             "title": "Happy New Year.",
             "timestamp": "2023-01-04T11:30:00+0000",
