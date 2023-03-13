@@ -1,5 +1,10 @@
 {
     "changes": [
+             {
+            "title": "Slow services and short outage.",
+            "timestamp": "2023-03-13T09:40:00+0000",
+            "body": "Increasing usage of ivCAMPUS required additional CPU power for our database. The provider reported that he is automatically assigning more power. But it took 15 minutes to do so. Sorry for any inconvinience..."
+        },
          {
             "title": "Minor optimization update.",
             "timestamp": "2023-03-03T07:30:00+0000",
