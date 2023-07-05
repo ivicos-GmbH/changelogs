@@ -1,7 +1,7 @@
 {
     "changes": [
          {
-            "title": "Billing system and trial period added.",
+            "title": "Streamlined icon bar above viedo frames.",
             "timestamp": "2023-07-03T08:00:00+0000",
             "body": "Streamlined the icon bar on top of video frames. The icon to set the video background has moved to 'My settings' (click your profile image)."
         },
