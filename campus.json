@@ -6,6 +6,12 @@
             "body": "Icon colors changed. The icon to set the video background has moved to 'My settings' (click your profile image)."
         },
         {
+            "title": "Virtual Video-Guide - Experimental",
+            "timestamp": "2023-06-30T19:30:00+0000",
+            "body": "New attachment allows to add and pin a video link for lots of nice use case. Find yours and feedback please."
+        },
+
+        {
             "title": "Billing system and trial period added.",
             "timestamp": "2023-04-27T21:00:00+0000",
             "body": "Managers can see an additional tab to manage a subscription. Please let us know if you have any question: info@ivicos.eu"
