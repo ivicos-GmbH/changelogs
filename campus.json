@@ -1,6 +1,16 @@
 {
     "changes": [
          {
+            "title": "Improved ivCAMPUS experience!",
+            "timestamp": "2023-07-11T17:30:50+0000",
+            "body": "You should notice that room changes are more seamless and there is significantly less need to reload the browser page."
+        },
+          {
+            "title": "Quick fix - allow visitors to change video background",
+            "timestamp": "2023-07-11T01:10:20+0000",
+            "body": "Enabled setting for visitor to change video background inside CAMPUS. This will be improved to allow a change already before entering the CAMPUS. Please stay tuned."
+        },
+         {
             "title": "Streamlined icon bar above video frames.",
             "timestamp": "2023-07-03T08:00:00+0000",
             "body": "Icon colors changed. The icon to set the video background has moved to 'My settings' (click your profile image)."
