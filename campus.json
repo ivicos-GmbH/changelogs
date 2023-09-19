@@ -1,10 +1,16 @@
 {
     "changes": [
         {
+            "title": "Improved user feedback and usability.",
+            "timestamp": "2023-09-19T08:00:50+0000",
+            "body": "Error messages in bulk invite improved. Changed burger menu icon to a more speaking panel illustration. Removed message to all icon (megaphone)."
+        },      
+        {
             "title": "Improved visibility for hosts of invited people.",
             "timestamp": "2023-09-07T08:00:50+0000",
             "body": "Notification of visitors, inviters and hosts improved. New design for messages."
-        },         {
+        },
+        {
             "title": "Improved ivCAMPUS experience!",
             "timestamp": "2023-07-11T17:30:50+0000",
             "body": "You should notice that room changes are more seamless and there is significantly less need to reload the browser page."
