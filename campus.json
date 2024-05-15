@@ -1,8 +1,33 @@
 {
     "changes": [
-         {
+        {
+            "title": "Restrict browser usage",
+            "timestamp": "2024-05-15T19:23:41+0000",
+            "body": "Users applied browsers with incompatibilities. To avoid related trouble we restricted the usage to a subset to reduce issues for users."
+        },  
+        {
+            "title": "Improved Round Table Mode of the Virtual Moderator",
+            "timestamp": "2023-11-28T19:02:13+0000",
+            "body": "Fixed issue: Sometimes the name of a user wasn't displayed."
+        },  
+        {
+            "title": "Backend improvements",
+            "timestamp": "2023-11-08T18:22:42+0000",
+            "body": "Several improvements to optimize the system."
+        },  
+        {
+            "title": "Added a video to the Visitor Entrance settings",
+            "timestamp": "2023-10-17T18:47:30+0000",
+            "body": "ivCAMPUS manager are allowed to add a general video link to the Visitor Entrance. Users can change the video in each invitation they create or apply the standard setting. The aim: shorten the waiting time for visitors."
+        },  
+        {
+            "title": "Reactivated announcement button.",
+            "timestamp": "2023-10-02T19:32:20+0000",
+            "body": "Reactivated the megaphone icon for areas due to client requests."
+        },  
+        {
             "title": "Update of the video engine.",
-            "timestamp": "2023-09-27T18:00:50+0000",
+            "timestamp": "2023-09-27T18:00:10+0000",
             "body": "Improved video frames order and features. Introducing emojis and gifys to send reactions. New icon to collapse room panel. All settings gathered in the wheel icon."
         },   
         {
