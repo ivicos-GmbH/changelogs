@@ -1,6 +1,21 @@
 {
     "changes": [
         {
+            "title": "Messaging between host and guest in the visitor entrance",
+            "timestamp": "2024-11-12T12:09:41+0000",
+            "body": "Users can now apply the messaging function to communicate with guests in the visitor entrance and vice versa."
+        },  
+        {
+            "title": "Improved Invitation Manager",
+            "timestamp": "2024-08-30T07:12:10+0000",
+            "body": "Added the possibility to add individual video links to an invitation. Added standard video functionality."
+        },
+         {
+            "title": "Creating a new CAMPUS with rooms and areas in German",
+            "timestamp": "2024-07-27T19:33:52+0000",
+            "body": "Campus rooms are created in German if a (new) user has choosen German as preferred language."
+        },
+        {
             "title": "Restrict browser usage",
             "timestamp": "2024-05-15T19:23:41+0000",
             "body": "Users applied browsers with incompatibilities. To avoid related trouble we restricted the usage to a subset to reduce issues for users."
