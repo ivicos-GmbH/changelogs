@@ -1,5 +1,10 @@
 {
     "changes": [
+         {
+            "title": "Upgrade of jitsi Version",
+            "timestamp": "2024-11-15T16:25:02+0000",
+            "body": "A new jitis Version allows to use Firefox as browser. We removed the blocker. Improved image upload feature (general rule: <2MB). Visitor entrance facelift."
+        }, 
         {
             "title": "Messaging between host and guest in the visitor entrance",
             "timestamp": "2024-11-12T12:09:41+0000",
