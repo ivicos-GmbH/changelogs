@@ -5,6 +5,11 @@
             "timestamp": "2025-02-25T18:15:34+0000",
             "body": "Icons disappeared. We got them back. Added an AI widget (only visible for subscibers of Sherloq). Talk to us to learn more."
         },
+        {
+            "title": "Fixed a couple of language issues",
+            "timestamp": "2025-01-14T17:52:23+0000",
+            "body": "Added German language to several dialogue boxes. Added a second email provider to deliver magic links in case of third party outage."
+        },
          {
             "title": "Upgrade of jitsi Version",
             "timestamp": "2024-11-15T16:25:02+0000",
