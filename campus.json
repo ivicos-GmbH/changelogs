@@ -1,6 +1,11 @@
 {
     "changes": [
          {
+            "title": "Added a standard background image to the lobby.",
+            "timestamp": "2025-04-04T17:08:34+0000",
+            "body": "A user entering the lobby can now see a background image. Campus manager can change the image in the Campus settings and customize it for the organization. Additional improvments are made in the backend."
+        },
+         {
             "title": "Added display of amount of members and guests in the lobby and in favorite tabs",
             "timestamp": "2025-03-5T18:15:34+0000",
             "body": "A user entering the lobby can now see how many members and visitors are in areas. They can also use the star to set areas as favorites, which are then displayed as tabs in the header. They can also see the number of members and guests there. "
