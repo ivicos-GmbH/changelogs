@@ -1,6 +1,10 @@
 {
     "changes": [
          {
+            "title": "Improved video frame and quality. HELP - WebRTC diagnose.",
+            "timestamp": "2025-04-25T16:33:12+0000",
+            "body": "No more grey bars on the left and right side of a video frame. Check the Help menu (upper right corner) to discover a new support page including an easy automated video-conferencing test."
+        },{
             "title": "Added a standard background image to the lobby.",
             "timestamp": "2025-04-04T17:08:34+0000",
             "body": "A user entering the lobby can now see a background image. Campus manager can change the image in the Campus settings and customize it for the organization. Additional improvments are made in the backend."
