@@ -1,6 +1,11 @@
 {
     "changes": [
          {
+            "title": "Guide user out of your office. Implemented security measures. Reset button re-work.",
+            "timestamp": "2025-05-23T17:50:56+0000",
+            "body": "Sometime colleagues might visit you in your personal room and then leave their workplace in hurry. You might want to get to work without this colleague in your room. Now you can move him outside. The reset button ivicos-campus.app/reset to clear the cache has been redesigned. Additional security measures are implemented. "
+        },
+        {
             "title": "Added m-captcha an open-source solution to block robots. Improved scrolling of areas and attachments.",
             "timestamp": "2025-05-12T17:50:56+0000",
             "body": "We removed the code entry request to receive a magic link. It's faster to request a new magic link. Just confirm that you're not a robot. Like this we block stupid login attempts of robots. We also improved scrolling in panels, e.g. the areas or attachments and tools."
