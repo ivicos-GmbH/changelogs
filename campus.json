@@ -1,6 +1,11 @@
 {
     "changes": [
          {
+            "title": "Added a meeting corner to the personal room.",
+            "timestamp": "2025-07-21T17:20:21+0000",
+            "body": "Customize your personal meeting corner. Create it that you like it. A visitor of your personal room will see the widgets and selected background images. Some call it icebreaker. Other call it the chance for surprises. No matter how you call it: Create your own and best place to work."
+        }, 
+        {
             "title": "Guide user out of your office. Implemented security measures. Reset button re-work.",
             "timestamp": "2025-05-23T17:50:56+0000",
             "body": "Sometime colleagues might visit you in your personal room and then leave their workplace in hurry. You might want to get to work without this colleague in your room. Now you can move him outside. The reset button ivicos-campus.app/reset to clear the cache has been redesigned. Additional security measures are implemented. "
