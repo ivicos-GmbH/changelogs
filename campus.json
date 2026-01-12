@@ -1,10 +1,15 @@
 {
     "changes": [
          {
+            "title": "Extended ivCampus settings for opening-hours.",
+            "timestamp": "2026-01-09T18:55:02+0000",
+            "body": "Add doors for external visitors to your campus and control access based on opening hours. Keep doors closed during designated holidays or special events. Set the security level and display opening hours to external visitors during closing times."
+        }, 
+         {
             "title": "Added a meeting corner to the personal room.",
             "timestamp": "2025-07-21T17:20:21+0000",
             "body": "Customize your personal meeting corner. Create it that you like it. A visitor of your personal room will see the widgets and selected background images. Some call it icebreaker. Other call it the chance for surprises. No matter how you call it: Create your own and best place to work."
-        }, 
+        },
         {
             "title": "Guide user out of your office. Implemented security measures. Reset button re-work.",
             "timestamp": "2025-05-23T17:50:56+0000",
