@@ -1,7 +1,7 @@
 {
     "changes": [
          {
-            "title": "Extended ivCampus settings for opening-hours.",
+            "title": "Create and manage external doors based on opening-hours. (Extended ivCampus settings)",
             "timestamp": "2026-01-09T18:55:02+0000",
             "body": "Add doors for external visitors to your campus and control access based on opening hours. Keep doors closed during designated holidays or special events. Set the security level and display opening hours to external visitors during closing times."
         }, 
