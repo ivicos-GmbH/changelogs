@@ -1,6 +1,21 @@
 {
     "changes": [
          {
+            "title": "Major update",
+            "timestamp": "2026-11-13T18:15:03+0000",
+            "body": "Several improvements, e.g. hover on knock icon offers additional option. Optional Colibo Newsfeed (Manager needs to turn it on). Optional Zammad Ticket Widget (Manager needs to turn it on). Optional Documenso (e-signing of documents - OSS) Widget (Manager needs to turn it on)."
+        },
+        {
+            "title": "Hint if serveral tabs are used to enter CAMPUS",
+            "timestamp": "2026-09-24T18:10:23+0000",
+            "body": "If a second tab with CAMPUS is accidentally opened, the user will receive a notification and can decide which tab to continue working in."
+        },
+         {
+            "title": "Zammad as a Widget",
+            "timestamp": "2026-08-31T18:32:42+0000",
+            "body": "A CAMPUS Manager can now enable Zammad as an integration, thereby allowing users to retrieve their personal data from a Zammad integration using an API key"
+        },
+         {
             "title": "Introducing new status messages",
             "timestamp": "2026-03-24T08:20:55+0000",
             "body": "Hover your profile image and enjoy the new status settings: intuitive, valuable details, quickly adjusted and with little nudges."
